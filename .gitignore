@@ -1,0 +1,29 @@
+# Byte-compiled / cached / generated files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.env/
+env/
+venv/
+.venv/
+.env.*
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Project-specific
+project/data/
