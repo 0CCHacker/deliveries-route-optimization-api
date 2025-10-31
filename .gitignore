@@ -24,6 +24,3 @@ Thumbs.db
 
 # VS Code
 .vscode/
-
-# Project-specific
-project/data/
